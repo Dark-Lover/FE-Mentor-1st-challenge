@@ -58,7 +58,6 @@ body {
   height: 100%;
   margin: auto;
   width: 70%;
-  /* background-color: rgba(15, 15, 15, 0.1); */
   display: grid;
   grid-template-columns: 250px auto;
   grid-gap: 10%;
